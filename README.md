@@ -5,7 +5,6 @@
 # Лабораторная работа 4
 # Лабораторная работа 5
 
-realpath /home/ilyas_of_the_best/Рабочий стол/fItkJH46Iux8Ouu-ELmsdqQGtIh7HMLtzgvrxyOoTlkQzzTZzlKcbtUpRoheQaZGT-7w2pWHPDC2T8FTjw8GBa3T.jpg
 
 # Лабораторная работа 6
 # Лабораторная работа 7
