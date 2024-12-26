@@ -31,7 +31,7 @@
 # Лабораторная работа 3
 # Лабораторная работа 4
 # Лабораторная работа 5
-![Диаграмма](/home/ilyas_of_the_best/itacademy/photo1.jpg)
+![Диаграмма](/home/ilyas_of_the_best/itacademy/images/photo1.jpg)
 
 # Лабораторная работа 6
 # Лабораторная работа 7
