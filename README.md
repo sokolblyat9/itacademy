@@ -32,7 +32,7 @@
 # Лабораторная работа 4
 # Лабораторная работа 5
 
-
+![Диаграмма](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLPVfhCcjdqVcxKsj2LUktUtV2Ce1JZINZg&s)
 
 # Лабораторная работа 6
 # Лабораторная работа 7
