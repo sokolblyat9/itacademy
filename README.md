@@ -86,9 +86,9 @@
 # Лабораторная работа 3
 # Лабораторная работа 4
 ### UML - Диаграмма состояний
-![Диаграмма](https://github.com/sokolblyat9/itacademy/raw/main/images/images/photo2.png)
+![Диаграмма](https://github.com/sokolblyat9/itacademy/raw/main/images/photo2.png)
 # Лабораторная работа 5
-![Диаграмма](https://github.com/sokolblyat9/itacademy/raw/main/images/images/photo1.jpg)
+![Диаграмма](https://github.com/sokolblyat9/itacademy/raw/main/images/photo1.jpg)
 
 # Лабораторная работа 6
 ![UML6](https://github.com/sokolblyat9/itacademy/raw/main/images/images/2024-12-26_23-31_1.png)
