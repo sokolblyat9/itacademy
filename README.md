@@ -88,9 +88,11 @@
 ### UML - Диаграмма состояний
 ![UML4](https://github.com/sokolblyat9/itacademy/raw/main/images/photo2.png)
 # Лабораторная работа 5
+### UML - Диаграмма последовательности
 ![UML5](https://github.com/sokolblyat9/itacademy/raw/main/images/photo1.jpg)
 
 # Лабораторная работа 6
+### UML - Диаграмма классов
 ![UML6](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-31_1.png)
 # Лабораторная работа 7
 # Лабораторная работа 8
