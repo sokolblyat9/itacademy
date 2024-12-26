@@ -74,23 +74,23 @@
 5) Как сотрудник IT-академии, я выдаю сертификаты студентам, успешно завершившим обучение на наших курсах.
 
 ### Use case 1 (Выбор и оплата курса)
-![UseCase1](https://github.com/sokolblyat9/itacademy/raw/main/images/images/2024-12-26_23-29.png)
+![UseCase1](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-29.png)
 ###Use case 2 (Проверка домашнего задания)
-![UseCase2](https://github.com/sokolblyat9/itacademy/raw/main/images/images/2024-12-26_23-29_1.png)
-![Logo](https://github.com/sokolblyat9/itacademy/raw/main/images/images/2024-12-26_23-30.png)
-![AboutComnpany](https://github.com/sokolblyat9/itacademy/raw/main/images/images/2024-12-26_23-30_1.png)
-![SpisokCources](https://github.com/sokolblyat9/itacademy/raw/main/images/images/2024-12-26_23-30_2.png)
-![Vacansion](https://github.com/sokolblyat9/itacademy/raw/main/images/images/2024-12-26_23-30_3.png)
+![UseCase2](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-29_1.png)
+![Logo](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-30.png)
+![AboutComnpany](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-30_1.png)
+![SpisokCources](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-30_2.png)
+![Vacansion](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-30_3.png)
 
 # Лабораторная работа 2
 # Лабораторная работа 3
 # Лабораторная работа 4
 ### UML - Диаграмма состояний
-![Диаграмма](https://github.com/sokolblyat9/itacademy/raw/main/images/photo2.png)
+![UML4](https://github.com/sokolblyat9/itacademy/raw/main/images/photo2.png)
 # Лабораторная работа 5
-![Диаграмма](https://github.com/sokolblyat9/itacademy/raw/main/images/photo1.jpg)
+![UML5](https://github.com/sokolblyat9/itacademy/raw/main/images/photo1.jpg)
 
 # Лабораторная работа 6
-![UML6](https://github.com/sokolblyat9/itacademy/raw/main/images/images/2024-12-26_23-31_1.png)
+![UML6](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-31_1.png)
 # Лабораторная работа 7
 # Лабораторная работа 8
