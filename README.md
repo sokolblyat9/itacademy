@@ -31,8 +31,7 @@
 # Лабораторная работа 3
 # Лабораторная работа 4
 # Лабораторная работа 5
-
-![Диаграмма](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLPVfhCcjdqVcxKsj2LUktUtV2Ce1JZINZg&s)
+![Диаграмма](/home/ilyas_of_the_best/itacademy/-6tePzDAPmo.jpg)
 
 # Лабораторная работа 6
 # Лабораторная работа 7
