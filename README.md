@@ -40,7 +40,7 @@
 # Лабораторная работа 3
 # Лабораторная работа 4
 # Лабораторная работа 5
-![Диаграмма](https://github.com/sokolblyat9/itacademy/raw/main//home/ilyas_of_the_best/itacademy/images/photo1.jpg)
+![Диаграмма](https://github.com/sokolblyat9/itacademy/raw/main/images/photo1.jpg)
 
 # Лабораторная работа 6
 # Лабораторная работа 7
