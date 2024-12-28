@@ -75,7 +75,7 @@
 
 ### Use case 1 (Выбор и оплата курса)
 ![UseCase1](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-29.png)
-###Use case 2 (Проверка домашнего задания)
+### Use case 2 (Проверка домашнего задания)
 ![UseCase2](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-29_1.png)
 ![Logo](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-30.png)
 ![AboutComnpany](https://github.com/sokolblyat9/itacademy/raw/main/images/2024-12-26_23-30_1.png)
